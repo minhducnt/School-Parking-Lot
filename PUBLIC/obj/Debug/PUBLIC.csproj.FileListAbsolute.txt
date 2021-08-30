@@ -1,0 +1,6 @@
+D:\HK2-2\Hệ quản trị CSDL\CSDL END\Garage\PUBLIC\bin\Debug\PUBLIC.dll
+D:\HK2-2\Hệ quản trị CSDL\CSDL END\Garage\PUBLIC\bin\Debug\PUBLIC.pdb
+D:\HK2-2\Hệ quản trị CSDL\CSDL END\Garage\PUBLIC\obj\Debug\PUBLIC.csproj.AssemblyReference.cache
+D:\HK2-2\Hệ quản trị CSDL\CSDL END\Garage\PUBLIC\obj\Debug\PUBLIC.csproj.CoreCompileInputs.cache
+D:\HK2-2\Hệ quản trị CSDL\CSDL END\Garage\PUBLIC\obj\Debug\PUBLIC.dll
+D:\HK2-2\Hệ quản trị CSDL\CSDL END\Garage\PUBLIC\obj\Debug\PUBLIC.pdb
